@@ -1,5 +1,5 @@
 # 👋 Hi there!  
-I’m **Prachi Yadav**, a Data Analyst with over 2.5 years of experience in making data work for people. I love turning messy data into clear insights and building dashboards that help teams make smart decisions.
+I’m **Prachi Yadav**, a Data Analyst with over 3 years of experience in making data work for people. I love turning messy data into clear insights and building dashboards that help teams make smart decisions.
 
 ---
 
